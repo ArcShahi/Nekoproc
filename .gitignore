@@ -1,0 +1,12 @@
+# Exclude the following folder : 
+.vs/
+bin/
+
+# Exclude Files :
+
+*.slnx
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+
