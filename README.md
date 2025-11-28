@@ -8,7 +8,7 @@ It'll contain solution from Project Euler , CSES, Advent of Code. Many useful an
 
 ## What is this conding convention ? 
 
-IDK My cat writes them. 
+IDK My cat writes them as the name suggest ( Neko = cat, proc : produced )
 
 ## Why C++ and Lua ?
 
