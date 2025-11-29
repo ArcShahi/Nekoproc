@@ -17,6 +17,6 @@ There's no better programming lanugage other than C++ for implementing Algorithm
 And Lua is fun to write . Many algorithms use Regex and I think Lua is better than C++ when it's comes to Regex, the <regex> sucks and it's so slow.
 Also writing programms in Lua is fun apparently ( My cat said )
 
-## Your cat talks ?
+## My cat talks ?
 
 Yes... also teaches me the ways. 
