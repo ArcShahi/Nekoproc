@@ -4,7 +4,7 @@
 #include <array>
 #include <string>
 #include <utility>
-#include <sstream>
+#include <spanstream>
 
 namespace fs = std::filesystem;
 
@@ -53,9 +53,9 @@ std::pair<int, int> puzzle_sln(fs::path path)
 
 	while (std::getline(input,line))
 	{
-		std::istringstream iss(line);
+		std::ispanstream isp(line);
 		char x{};
-		iss >> dim[0] >> x >> dim[1] >> x >> dim[2];
+		isp >> dim[0] >> x >> dim[1] >> x >> dim[2];
 
 		paper += paper_needed(dim);
 		ribbon += ribbon_needed(dim);
